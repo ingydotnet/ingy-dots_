@@ -1,0 +1,2 @@
+alias tpoff='xinput set-prop 13 134 0'
+alias tpon='xinput set-prop 13 134 1'
