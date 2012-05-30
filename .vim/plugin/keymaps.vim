@@ -1,5 +1,5 @@
 imap  
- 
+
 " Fix delete
 if &term == "xterm-color"
   set t_kb=
@@ -17,7 +17,8 @@ map \- <C-w>_
 map \| <C-w><bar>
 map \+ <C-^>
 
-map ; :
+" Too hi-speed for the rking.
+" map ; :
 
 map \] :wa<Bar><UP><CR>
 map \[ :<UP><CR>
